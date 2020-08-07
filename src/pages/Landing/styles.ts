@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
 
   buttonPrimary: {
-    backgroundColor: '#9871F5',
+    backgroundColor: '#7159c1',
   },
 
   buttonSecondary: {
