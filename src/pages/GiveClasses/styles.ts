@@ -40,7 +40,9 @@ const styles = StyleSheet.create({
   },
 
   okButtonText: {
-
+    color: '#FFF',
+    fontSize: 18,
+    fontFamily: 'Archivo_700Bold',
   },
 });
 
